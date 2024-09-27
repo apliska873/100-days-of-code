@@ -1,10 +1,12 @@
 # #100DaysOfCode Log - Round 1 - [Your Name Here]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [September 27, 2024].
+
+For the beginning of my journey to learn and create with C++, I will be utilizing the projects outlined by a GeeksForGeeks article as a guideline: <https://www.geeksforgeeks.org/top-50-cpp-project-ideas-for-beginners-advanced/>. 
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Started my first project, the CGPA calculator.
 
 ### R1D2
