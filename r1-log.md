@@ -8,5 +8,7 @@ For the beginning of my journey to learn and create with C++, I will be utilizin
 
 ### R1D1 
 Started my first project, the CGPA calculator.
+Update: also finished the calculator.
 
 ### R1D2
+Started and finished my second project: rock, paper, scissors game against random cpu answers.
