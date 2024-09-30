@@ -12,3 +12,6 @@ Update: also finished the calculator.
 
 ### R1D2
 Started and finished my second project: rock, paper, scissors game against random cpu answers.
+
+### R1D3
+Didn't have much time to code today but I still managed to code a bit towards project 3 - the casino guessing game - and before that I had to make sure my mac was setup towards coding in c++ since I was coding on windows before. Setting up c++ admittedly took longer than expected because I was also trying to install homebrew and then add it to my path so I could easily install g++, but what I didn't realize was that I think I had clang++ the whole time... regardless it's done now and I am using g++. I hope to finish or at least make solid progress on project 3 tomorrow.
