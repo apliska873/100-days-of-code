@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - apliska873
 
 The log of my #100DaysOfCode challenge. Started on [September 27, 2024].
 
@@ -18,3 +18,6 @@ Didn't have much time to code today but I still managed to code a bit towards pr
 
 ### R1D4
 I am writing this short log the day after since I forgot to the day of, but I did get some work done yesterday and made some real progress towards the casino game. Part of the project is utilizing different classes and I may have overstepped some of my knowledge trying to implement them in different roles which caused difficulty. Tomorrow I hope to remedy those issues and finish the project.
+
+### R1D5
+Started pretty late today, but I decided for the 3rd project from yesterday to just move the second class to the same file and deal with the issue when it is more necessary like with a harder / bigger project. Also found out why my randomly generated answers were the same every time.
