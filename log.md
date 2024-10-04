@@ -54,3 +54,9 @@
 **Thoughts:** Started pretty late today, but I decided for the 3rd project from yesterday to just move the second class to the same file and deal with the issue when it is more necessary like with a harder / bigger project. Also found out why my randomly generated answers were the same every time. I didn't have a lot of time today because I started so late and more importantly I am finding myself slipping a bit and finding it harder to code in my freetime, likely because of fatigue maybe caused by my new job. However, I hope to schedule some dedicated coding time after work to help myself stay in the rhythm. Project 4 looks to be both harder and easier than I had previously expected before planning for it. Also started logging on the other log file (this one) because I liked this template better. I likely will not log in both files because the redundancy is unnecessary.
 
 **Work:** Projects 3 and 4.
+
+### Day 6: October 3, 2024
+
+**Today's Progress:** REALLY started project 4 by making a gameplan and getting some very basic functionality down.
+
+**Thoughts:** I had to use a skip yesterday because I was having a really rough time and thought it was best if I take time to rest due to all of that personal stuff. While I am ultimately not happy with this event or even my progress today, I am still proud of myself and happy that I was able to sit down and get anything done at all. This project is already a challenge and I plan on beating it.
