@@ -60,3 +60,15 @@
 **Today's Progress:** REALLY started project 4 by making a gameplan and getting some very basic functionality down.
 
 **Thoughts:** I had to use a skip yesterday because I was having a really rough time and thought it was best if I take time to rest due to all of that personal stuff. While I am ultimately not happy with this event or even my progress today, I am still proud of myself and happy that I was able to sit down and get anything done at all. This project is already a challenge and I plan on beating it.
+
+**Work:** Project 4
+
+### Day 7: October 4, 2024
+
+**Today's Progress:** Still very slow today. I did not really accomplish much more towards the project since last time.
+
+**Thoughts:** I really gave it a good effort towards putting time and thought into the project today, but I think the reality of my lack of progress is I'm simply stuck on this problem and my best chance at solving it is probably going to involve breaking the project down into smaller and deeper steps so I can understand it better.
+
+**Work:** Project 4
+
+
